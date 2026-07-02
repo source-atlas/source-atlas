@@ -14,7 +14,7 @@
 
 ```yaml
 name: Abhinav M R
-education: Graduate Engineer in IT from Cochin University Of Science And Technology, Kerala
+education: Graduate Engineer in IT from CUSAT, Kerala
 location: Kerala, India 🇮🇳️
 focus: Flutter · Backend
 hobbies: chess, drawing, reading
