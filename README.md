@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="my-github-header-banner.png" alt="Header" />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&reversal=false&text=Abhinav%20M%20R&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Flutter%20Developer%20%7C%20Software%20Engineer&descSize=20&descAlign=50&descAlignY=64&textBg=false&theme=tokyonight"  />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Flutter+Developer+%7C+Creating+visually+striking+apps+%F0%9F%93%B1)](https://git.io/typing-svg)
 
