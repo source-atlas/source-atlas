@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://a0ssj6x3r04nvdak.private.blob.vercel-storage.com/my-github-header-banner.png?vercel-blob-delegation=eyJzdG9yZUlkIjoic3RvcmVfQTBzc2o2eDNSMDRudkRhayIsIm93bmVySWQiOiJ0ZWFtX3ljYTUxblg4bzBtYmN4bTJlR3hMVEdNNyIsInBhdGhuYW1lIjoiKiIsIm9wZXJhdGlvbnMiOlsiZ2V0IiwiaGVhZCJdLCJ2YWxpZFVudGlsIjoxNzgyOTQ0Nzc3ODkzLCJpYXQiOjE3ODI5MDE1NzkwNDB9.w9SZ5zCiOuTLwmRbfzlBri84g-jChGDdBn6DdN5dcts&vercel-blob-signature=0kf918GLdpCSHEQM8hQmmLvujENRvxOBb9gcvnBX6qk" />
+<img src="my-github-header-banner.png" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&pause=1000&center=true&vCenter=true&width=700&height=80&lines=Flutter+Developer+%7C+Creating+visually+striking+apps+%F0%9F%93%B1)](https://git.io/typing-svg)
 
